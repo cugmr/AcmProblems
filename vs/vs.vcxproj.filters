@@ -13,18 +13,27 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="封存代码">
+      <UniqueIdentifier>{82313ae6-6e32-4ea1-b52c-1926e7db1582}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="pch.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="pch.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="vs.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="UVA1644.cpp">
+      <Filter>封存代码</Filter>
+    </ClCompile>
+    <ClCompile Include="带分数.cpp">
+      <Filter>封存代码</Filter>
+    </ClCompile>
+    <ClCompile Include="翻硬币.cpp">
+      <Filter>封存代码</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="list.md">
+      <Filter>资源文件</Filter>
+    </Text>
   </ItemGroup>
 </Project>
