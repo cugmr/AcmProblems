@@ -16,6 +16,9 @@
     <Filter Include="封存代码">
       <UniqueIdentifier>{82313ae6-6e32-4ea1-b52c-1926e7db1582}</UniqueIdentifier>
     </Filter>
+    <Filter Include="封存代码\蓝桥杯">
+      <UniqueIdentifier>{5a97c9de-ac84-4939-93ed-0d0caab986a5}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="vs.cpp">
@@ -24,11 +27,20 @@
     <ClCompile Include="UVA1644.cpp">
       <Filter>封存代码</Filter>
     </ClCompile>
-    <ClCompile Include="带分数.cpp">
-      <Filter>封存代码</Filter>
+    <ClCompile Include="蓝桥杯-带分数.cpp">
+      <Filter>封存代码\蓝桥杯</Filter>
     </ClCompile>
-    <ClCompile Include="翻硬币.cpp">
-      <Filter>封存代码</Filter>
+    <ClCompile Include="蓝桥杯-翻硬币.cpp">
+      <Filter>封存代码\蓝桥杯</Filter>
+    </ClCompile>
+    <ClCompile Include="蓝桥杯-连号区间数.cpp">
+      <Filter>封存代码\蓝桥杯</Filter>
+    </ClCompile>
+    <ClCompile Include="蓝桥杯-剪格子.cpp">
+      <Filter>封存代码\蓝桥杯</Filter>
+    </ClCompile>
+    <ClCompile Include="蓝桥杯-幸运数.cpp">
+      <Filter>封存代码\蓝桥杯</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

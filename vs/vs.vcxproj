@@ -153,8 +153,11 @@
   <ItemGroup>
     <ClCompile Include="UVA1644.cpp" />
     <ClCompile Include="vs.cpp" />
-    <ClCompile Include="带分数.cpp" />
-    <ClCompile Include="翻硬币.cpp" />
+    <ClCompile Include="蓝桥杯-剪格子.cpp" />
+    <ClCompile Include="蓝桥杯-带分数.cpp" />
+    <ClCompile Include="蓝桥杯-幸运数.cpp" />
+    <ClCompile Include="蓝桥杯-翻硬币.cpp" />
+    <ClCompile Include="蓝桥杯-连号区间数.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="list.md" />
