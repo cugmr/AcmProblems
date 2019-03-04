@@ -151,8 +151,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="cf1111b.cpp" />
+    <ClCompile Include="cf1130c.cpp" />
+    <ClCompile Include="cf1131f.cpp" />
+    <ClCompile Include="UVA1643.cpp" />
     <ClCompile Include="UVA1644.cpp" />
-    <ClCompile Include="vs.cpp" />
     <ClCompile Include="蓝桥杯-剪格子.cpp" />
     <ClCompile Include="蓝桥杯-带分数.cpp" />
     <ClCompile Include="蓝桥杯-幸运数.cpp" />

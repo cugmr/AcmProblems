@@ -21,12 +21,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="vs.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="UVA1644.cpp">
-      <Filter>封存代码</Filter>
-    </ClCompile>
     <ClCompile Include="蓝桥杯-带分数.cpp">
       <Filter>封存代码\蓝桥杯</Filter>
     </ClCompile>
@@ -36,10 +30,25 @@
     <ClCompile Include="蓝桥杯-连号区间数.cpp">
       <Filter>封存代码\蓝桥杯</Filter>
     </ClCompile>
-    <ClCompile Include="蓝桥杯-剪格子.cpp">
-      <Filter>封存代码\蓝桥杯</Filter>
-    </ClCompile>
     <ClCompile Include="蓝桥杯-幸运数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="cf1111b.cpp">
+      <Filter>封存代码</Filter>
+    </ClCompile>
+    <ClCompile Include="cf1130c.cpp">
+      <Filter>封存代码</Filter>
+    </ClCompile>
+    <ClCompile Include="cf1131f.cpp">
+      <Filter>封存代码</Filter>
+    </ClCompile>
+    <ClCompile Include="UVA1644.cpp">
+      <Filter>封存代码</Filter>
+    </ClCompile>
+    <ClCompile Include="UVA1643.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="蓝桥杯-剪格子.cpp">
       <Filter>封存代码\蓝桥杯</Filter>
     </ClCompile>
   </ItemGroup>
