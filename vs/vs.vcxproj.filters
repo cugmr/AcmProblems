@@ -19,6 +19,9 @@
     <Filter Include="封存代码\蓝桥杯">
       <UniqueIdentifier>{5a97c9de-ac84-4939-93ed-0d0caab986a5}</UniqueIdentifier>
     </Filter>
+    <Filter Include="封存代码\Codeforces">
+      <UniqueIdentifier>{99e2eb3c-6380-46bc-b1ce-4e17d6517265}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="蓝桥杯-带分数.cpp">
@@ -33,15 +36,6 @@
     <ClCompile Include="蓝桥杯-幸运数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="cf1111b.cpp">
-      <Filter>封存代码</Filter>
-    </ClCompile>
-    <ClCompile Include="cf1130c.cpp">
-      <Filter>封存代码</Filter>
-    </ClCompile>
-    <ClCompile Include="cf1131f.cpp">
-      <Filter>封存代码</Filter>
-    </ClCompile>
     <ClCompile Include="UVA1644.cpp">
       <Filter>封存代码</Filter>
     </ClCompile>
@@ -50,6 +44,33 @@
     </ClCompile>
     <ClCompile Include="蓝桥杯-剪格子.cpp">
       <Filter>封存代码\蓝桥杯</Filter>
+    </ClCompile>
+    <ClCompile Include="cf1131f.cpp">
+      <Filter>封存代码\Codeforces</Filter>
+    </ClCompile>
+    <ClCompile Include="cf1130c.cpp">
+      <Filter>封存代码\Codeforces</Filter>
+    </ClCompile>
+    <ClCompile Include="cf1111b.cpp">
+      <Filter>封存代码\Codeforces</Filter>
+    </ClCompile>
+    <ClCompile Include="蓝桥杯-大臣的旅费.cpp">
+      <Filter>封存代码\蓝桥杯</Filter>
+    </ClCompile>
+    <ClCompile Include="蓝桥杯-蚂蚁感冒.cpp">
+      <Filter>封存代码\蓝桥杯</Filter>
+    </ClCompile>
+    <ClCompile Include="蓝桥杯-地宫取宝.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="cf1105a.cpp">
+      <Filter>封存代码\Codeforces</Filter>
+    </ClCompile>
+    <ClCompile Include="cf1105b.cpp">
+      <Filter>封存代码\Codeforces</Filter>
+    </ClCompile>
+    <ClCompile Include="cf1105c.cpp">
+      <Filter>封存代码\Codeforces</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

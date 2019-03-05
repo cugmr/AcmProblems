@@ -156,7 +156,13 @@
     <ClCompile Include="cf1131f.cpp" />
     <ClCompile Include="UVA1643.cpp" />
     <ClCompile Include="UVA1644.cpp" />
+    <ClCompile Include="cf1105a.cpp" />
+    <ClCompile Include="cf1105b.cpp" />
+    <ClCompile Include="cf1105c.cpp" />
     <ClCompile Include="蓝桥杯-剪格子.cpp" />
+    <ClCompile Include="蓝桥杯-地宫取宝.cpp" />
+    <ClCompile Include="蓝桥杯-大臣的旅费.cpp" />
+    <ClCompile Include="蓝桥杯-蚂蚁感冒.cpp" />
     <ClCompile Include="蓝桥杯-带分数.cpp" />
     <ClCompile Include="蓝桥杯-幸运数.cpp" />
     <ClCompile Include="蓝桥杯-翻硬币.cpp" />
