@@ -151,6 +151,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="51nod1051.cpp" />
+    <ClCompile Include="cf1105d.cpp" />
     <ClCompile Include="cf1111b.cpp" />
     <ClCompile Include="cf1130c.cpp" />
     <ClCompile Include="cf1131f.cpp" />
@@ -159,9 +161,13 @@
     <ClCompile Include="cf1105a.cpp" />
     <ClCompile Include="cf1105b.cpp" />
     <ClCompile Include="cf1105c.cpp" />
+    <ClCompile Include="源.cpp" />
     <ClCompile Include="蓝桥杯-剪格子.cpp" />
-    <ClCompile Include="蓝桥杯-地宫取宝.cpp" />
+    <ClCompile Include="蓝桥杯-波动数列.cpp" />
+    <ClCompile Include="蓝桥杯-矩阵翻硬币.cpp" />
+    <ClCompile Include="（重）蓝桥杯-地宫取宝.cpp" />
     <ClCompile Include="蓝桥杯-大臣的旅费.cpp" />
+    <ClCompile Include="蓝桥杯-斐波那契.cpp" />
     <ClCompile Include="蓝桥杯-蚂蚁感冒.cpp" />
     <ClCompile Include="蓝桥杯-带分数.cpp" />
     <ClCompile Include="蓝桥杯-幸运数.cpp" />

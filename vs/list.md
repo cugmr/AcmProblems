@@ -6,7 +6,7 @@ Assigns new contents to the list container, replacing its current contents, and 
 
 void assign (InputIterator first, InputIterator last);
 void assign (size_type n, const value_type& val);
-void assign (initializer_list<value_type> il);
+void assign (initializer_list\<value_type\> il);
 
 ### emplace_front()
 
