@@ -22,6 +22,9 @@
     <Filter Include="封存代码\Codeforces">
       <UniqueIdentifier>{99e2eb3c-6380-46bc-b1ce-4e17d6517265}</UniqueIdentifier>
     </Filter>
+    <Filter Include="封存代码\洛谷">
+      <UniqueIdentifier>{dde2110c-260f-4bba-aa29-a14fc20617dd}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="蓝桥杯-带分数.cpp">
@@ -32,9 +35,6 @@
     </ClCompile>
     <ClCompile Include="蓝桥杯-连号区间数.cpp">
       <Filter>封存代码\蓝桥杯</Filter>
-    </ClCompile>
-    <ClCompile Include="蓝桥杯-幸运数.cpp">
-      <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="UVA1644.cpp">
       <Filter>封存代码</Filter>
@@ -72,23 +72,32 @@
     <ClCompile Include="cf1105d.cpp">
       <Filter>封存代码\Codeforces</Filter>
     </ClCompile>
-    <ClCompile Include="蓝桥杯-斐波那契.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="源.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="（重）蓝桥杯-地宫取宝.cpp">
       <Filter>封存代码\蓝桥杯</Filter>
     </ClCompile>
     <ClCompile Include="蓝桥杯-矩阵翻硬币.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="蓝桥杯-波动数列.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="51nod1051.cpp">
       <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="（重）蓝桥杯-波动数列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="蓝桥杯-兰顿蚂蚁.cpp">
+      <Filter>封存代码\蓝桥杯</Filter>
+    </ClCompile>
+    <ClCompile Include="蓝桥杯-分糖果.cpp">
+      <Filter>封存代码\蓝桥杯</Filter>
+    </ClCompile>
+    <ClCompile Include="洛谷-P1616.cpp">
+      <Filter>封存代码\洛谷</Filter>
+    </ClCompile>
+    <ClCompile Include="洛谷-P1048.cpp">
+      <Filter>封存代码\洛谷</Filter>
+    </ClCompile>
+    <ClCompile Include="洛谷-P1049.cpp">
+      <Filter>封存代码\洛谷</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

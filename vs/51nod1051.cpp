@@ -1,4 +1,4 @@
-#include <bits/stdc++.h>
+/*#include <bits/stdc++.h>
 using namespace std;
 typedef long long ll;
 const int MAXN = 500;
@@ -15,4 +15,4 @@ int main()
 		for (int i = 1; i <= m; i++) { for (int j = 1; j <= n; j++) { row[i] = row[i - 1] + a[i][j]; } }
 	}
 	return 0;
-}
+}*/
